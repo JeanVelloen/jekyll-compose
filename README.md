@@ -6,7 +6,7 @@ $ docker-compose build
 ```
 Successful operation will result in a message as follows:
 ```
-$ Successfully tagged jekyll-compose_web:latest
+$ Successfully tagged ruby-jekyll:latest
 ```
 To run a local instance of the Jekyll container that you just built execute the following:
 ```
